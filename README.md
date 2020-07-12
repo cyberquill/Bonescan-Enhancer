@@ -21,11 +21,11 @@ The following are the screenshots for the serial and parallel implementations of
 
     <img src="./screenshots/1.png" alt="Application Output" />
 
-1. Action of the Laplacian Operator 
+1. Action of the Laplacian operator 
 
     <img src="./screenshots/2.png" alt="Application Output" />
 
-1. Action of the Sobel Operator 
+1. Action of the Sobel operator 
 
     <img src="./screenshots/3.jpg" alt="Application Output" />
 
@@ -33,14 +33,14 @@ The following are the screenshots for the serial and parallel implementations of
 
     <img src="./screenshots/4.jpg" alt="Application Output" />
 
-1. Image Mask obtained by multiplying outputs of *step-2* and *step-4*
+1. Image mask obtained by multiplying outputs of *step-2* and *step-4*
 
     <img src="./screenshots/5.png" alt="Application Output" />
 
-1. Rendering of Enhanced Scan 
+1. Rendering of enhanced scan 
 
     <img src="./screenshots/6.png" alt="Application Output" />
 
-1. Action of the Power-Law Transform 
+1. Action of the Power-Law transform 
 
     <img src="./screenshots/7.png" alt="Application Output" />
