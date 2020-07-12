@@ -29,11 +29,11 @@ The following are the screenshots for the serial and parallel implementations of
 
     <img src="./screenshots/3.jpg" alt="Application Output" />
 
-1. Application of a 5&times;5 Smoothening filter on Step-3's Output
+1. Application of a 5&times;5 Smoothening filter on *step-3*'s Output
 
     <img src="./screenshots/4.jpg" alt="Application Output" />
 
-1. Obtained Image Mask 
+1. Image Mask obtained by multiplying outputs of *step-2* and *step-4*
 
     <img src="./screenshots/5.png" alt="Application Output" />
 
