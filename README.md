@@ -18,22 +18,29 @@ The following are the screenshots for the serial and parallel implementations of
 ## Step-by-Step Output analysis
 
 1. Original Scan
+
     <img src="./screenshots/1.png" alt="Application Output" />
 
 1. Action of the Laplacian Operator 
+
     <img src="./screenshots/2.png" alt="Application Output" />
 
 1. Action of the Sobel Operator 
+
     <img src="./screenshots/3.jpg" alt="Application Output" />
 
 1. Application of a 5&times;5 Smoothening filter on Step-3's Output
+
     <img src="./screenshots/4.jpg" alt="Application Output" />
 
 1. Obtained Image Mask 
+
     <img src="./screenshots/5.png" alt="Application Output" />
 
 1. Rendering of Enhanced Scan 
+
     <img src="./screenshots/6.png" alt="Application Output" />
 
 1. Action of the Power-Law Transform 
+
     <img src="./screenshots/7.png" alt="Application Output" />
